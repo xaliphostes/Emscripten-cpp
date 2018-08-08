@@ -1,0 +1,1 @@
+emcc --bind -o example.js myclass.cxx
