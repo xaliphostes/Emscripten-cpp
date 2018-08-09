@@ -1,1 +1,1 @@
-emcc --bind -o example.js myclass.cxx
+emcc --bind -o example.js myclass.cxx binding.cxx
